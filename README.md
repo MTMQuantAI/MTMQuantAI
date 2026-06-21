@@ -27,6 +27,11 @@ Large Language Model Agents | Quantitative Reasoning | Self-Play | LLM Evaluatio
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=MTMQuantAI&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTMQuantAI&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 
+<br />
+<br />
+
+<img src="./assets/research-highlights.svg" alt="Research highlights" width="96%" />
+
 </div>
 
 ## About Me
@@ -62,6 +67,27 @@ I am particularly interested in building evaluation environments and learning fr
 <div align="center">
 
 <img src="./assets/research-system.svg" alt="Research workflow for LLM-based market agents" width="92%" />
+
+</div>
+
+## Paper Frameworks
+
+<div align="center">
+
+<a href="https://github.com/MTMQuantAI/Agent-Trading-Arena/tree/main/decoupledmarket">
+  <img src="./assets/decoupledmarket-framework.png" alt="DecoupledMarket framework for self-play and quantitative reasoning" width="92%" />
+</a>
+
+<sub><b>Digital Twin Markets / DecoupledMarket</b>: self-play framework for evolving quantitative reasoning in LLM-based market agents.</sub>
+
+<br />
+<br />
+
+<a href="https://github.com/MTMQuantAI/Agent-Trading-Arena/tree/main/Agent-Trading-Arena">
+  <img src="./assets/agent-trading-arena-framework.png" alt="Agent Trading Arena framework for LLM-based agent evaluation" width="92%" />
+</a>
+
+<sub><b>Agent Trading Arena</b>: controllable market arena for evaluating numerical understanding and decision-making in LLM-based agents.</sub>
 
 </div>
 
