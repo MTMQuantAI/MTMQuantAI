@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Tianmi Ma GitHub Profile Banner</title>
+  <desc id="desc">A research banner for large language model agents, quantitative reasoning, self-play, and evaluation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="52%" stop-color="#eef6ff"/>
+      <stop offset="100%" stop-color="#f6fff8"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="52%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#0f172a" flood-opacity="0.10"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#dbeafe" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="420" rx="28" fill="url(#grid)" opacity="0.55"/>
+
+  <g transform="translate(84 72)">
+    <rect x="0" y="0" width="610" height="276" rx="24" fill="#ffffff" opacity="0.92" filter="url(#softShadow)"/>
+    <text x="44" y="72" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="800" fill="#0f172a">Tianmi Ma</text>
+    <text x="46" y="112" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#1d4ed8">Ph.D. Student | Wuhan University of Technology</text>
+    <text x="46" y="164" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" fill="#334155">LLM Agents  ·  Quantitative Reasoning  ·  Self-Play</text>
+    <text x="46" y="202" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" fill="#334155">Agent Evaluation  ·  Dynamic Decision-Making</text>
+    <rect x="46" y="232" width="180" height="10" rx="5" fill="#2563eb"/>
+    <rect x="238" y="232" width="124" height="10" rx="5" fill="#059669"/>
+    <rect x="374" y="232" width="84" height="10" rx="5" fill="#f59e0b"/>
+  </g>
+
+  <g transform="translate(760 64)">
+    <rect x="0" y="0" width="548" height="292" rx="24" fill="#ffffff" opacity="0.94" filter="url(#softShadow)"/>
+    <text x="34" y="48" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#0f172a">Agentic Market Research Loop</text>
+
+    <g transform="translate(42 88)">
+      <rect x="0" y="0" width="120" height="62" rx="14" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+      <text x="60" y="27" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#1e3a8a">LLM</text>
+      <text x="60" y="47" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#1e3a8a">Agents</text>
+
+      <rect x="186" y="0" width="140" height="62" rx="14" fill="#dcfce7" stroke="#059669" stroke-width="2"/>
+      <text x="256" y="27" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#065f46">Market</text>
+      <text x="256" y="47" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#065f46">Simulator</text>
+
+      <rect x="392" y="0" width="118" height="62" rx="14" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+      <text x="451" y="27" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#92400e">Tools</text>
+      <text x="451" y="47" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" fill="#92400e">Memory</text>
+
+      <path d="M126 31 H178" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
+      <path d="M172 23 L182 31 L172 39" fill="none" stroke="#64748b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M332 31 H384" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
+      <path d="M378 23 L388 31 L378 39" fill="none" stroke="#64748b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+      <path d="M451 72 C432 126 98 126 60 72" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linecap="round"/>
+      <path d="M67 82 L59 72 L72 69" fill="none" stroke="#7c3aed" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="256" y="122" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#6d28d9">Self-play feedback and evaluation</text>
+    </g>
+
+    <g transform="translate(76 236)">
+      <path d="M0 16 L44 6 L88 26 L132 12 L176 18 L220 4 L264 22 L308 10 L352 30 L396 18" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="44" cy="6" r="6" fill="#2563eb"/>
+      <circle cx="220" cy="4" r="6" fill="#059669"/>
+      <circle cx="352" cy="30" r="6" fill="#f59e0b"/>
+    </g>
+  </g>
+</svg>

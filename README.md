@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" alt="Tianmi Ma | LLM Agents and Quantitative Reasoning" width="100%" />
+
+<br />
+
 # Tianmi Ma
 
 Ph.D. Student at Wuhan University of Technology  
@@ -8,6 +12,15 @@ Large Language Model Agents | Quantitative Reasoning | Self-Play | LLM Evaluatio
 [![Email](https://img.shields.io/badge/Email-matianmi%40whut.edu.cn-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:matianmi@whut.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-MTMQuantAI-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/MTMQuantAI)
 [![Research Code](https://img.shields.io/badge/Code-Agent--Trading--Arena-2da44e?style=flat-square&logo=github&logoColor=white)](https://github.com/MTMQuantAI/Agent-Trading-Arena)
+
+</div>
+
+## Profile Snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MTMQuantAI&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTMQuantAI&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
@@ -24,6 +37,14 @@ I am particularly interested in building evaluation environments and learning fr
 - Self-Play and Multi-Agent Interaction
 - Agent Evaluation and Benchmark Construction
 - Reliable Decision-Making in Dynamic Environments
+
+## Research System
+
+<div align="center">
+
+<img src="./assets/research-system.svg" alt="Research workflow for LLM-based market agents" width="92%" />
+
+</div>
 
 ## Selected Publications
 

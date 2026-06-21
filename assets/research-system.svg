@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Research System Overview</title>
+  <desc id="desc">A workflow diagram linking agent design, market environment, self-play, quantitative tools, and evaluation.</desc>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#0f172a" flood-opacity="0.10"/>
+    </filter>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10" fill="none" stroke="#475569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="360" rx="22" fill="#f8fafc"/>
+  <text x="600" y="48" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="800" fill="#0f172a">Research Workflow for LLM-Based Market Agents</text>
+  <text x="600" y="82" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" fill="#475569">from agent behavior design to self-play improvement and quantitative reasoning evaluation</text>
+
+  <g transform="translate(54 126)">
+    <g filter="url(#shadow)">
+      <rect x="0" y="0" width="178" height="112" rx="18" fill="#ffffff"/>
+      <rect x="0" y="0" width="178" height="10" rx="5" fill="#2563eb"/>
+      <text x="89" y="44" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#0f172a">Agent Design</text>
+      <text x="89" y="72" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">memory, reflection,</text>
+      <text x="89" y="92" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">feedback, strategy</text>
+    </g>
+
+    <g transform="translate(228 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="178" height="112" rx="18" fill="#ffffff"/>
+      <rect x="0" y="0" width="178" height="10" rx="5" fill="#059669"/>
+      <text x="89" y="44" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#0f172a">Market Arena</text>
+      <text x="89" y="72" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">zero-sum scenarios,</text>
+      <text x="89" y="92" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">dynamic interaction</text>
+    </g>
+
+    <g transform="translate(456 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="178" height="112" rx="18" fill="#ffffff"/>
+      <rect x="0" y="0" width="178" height="10" rx="5" fill="#f59e0b"/>
+      <text x="89" y="44" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#0f172a">Self-Play</text>
+      <text x="89" y="72" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">iterative competition,</text>
+      <text x="89" y="92" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">adaptation, learning</text>
+    </g>
+
+    <g transform="translate(684 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="178" height="112" rx="18" fill="#ffffff"/>
+      <rect x="0" y="0" width="178" height="10" rx="5" fill="#7c3aed"/>
+      <text x="89" y="44" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#0f172a">Quant Tools</text>
+      <text x="89" y="72" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">calculation support,</text>
+      <text x="89" y="92" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">reasoning checks</text>
+    </g>
+
+    <g transform="translate(912 0)" filter="url(#shadow)">
+      <rect x="0" y="0" width="178" height="112" rx="18" fill="#ffffff"/>
+      <rect x="0" y="0" width="178" height="10" rx="5" fill="#0f172a"/>
+      <text x="89" y="44" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" fill="#0f172a">Evaluation</text>
+      <text x="89" y="72" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">numerical ability,</text>
+      <text x="89" y="92" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" fill="#475569">decision reliability</text>
+    </g>
+
+    <path d="M188 56 H218" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M416 56 H446" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M644 56 H674" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+    <path d="M872 56 H902" stroke="#475569" stroke-width="3" marker-end="url(#arrow)"/>
+  </g>
+
+  <g transform="translate(134 286)">
+    <rect x="0" y="-22" width="932" height="48" rx="24" fill="#ffffff" stroke="#e2e8f0"/>
+    <text x="466" y="9" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" fill="#334155">Agent Trading Arena · DecoupledMarket · LLM-Based Quantitative Reasoning · Multi-Agent Evaluation</text>
+  </g>
+</svg>
