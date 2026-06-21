@@ -12,6 +12,11 @@ Large Language Model Agents | Quantitative Reasoning | Self-Play | LLM Evaluatio
 [![Email](https://img.shields.io/badge/Email-matianmi%40whut.edu.cn-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:matianmi@whut.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-MTMQuantAI-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/MTMQuantAI)
 [![Research Code](https://img.shields.io/badge/Code-Agent--Trading--Arena-2da44e?style=flat-square&logo=github&logoColor=white)](https://github.com/MTMQuantAI/Agent-Trading-Arena)
+[![Profile Views](https://komarev.com/ghpvc/?username=MTMQuantAI&style=flat-square&color=1f6feb)](https://github.com/MTMQuantAI)
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3200&pause=900&color=1F6FEB&center=true&vCenter=true&width=760&lines=Building+LLM-based+agents+for+quantitative+reasoning;Studying+self-play+in+digital+twin+markets;Evaluating+agentic+decision-making+in+dynamic+environments" alt="Typing research interests" />
 
 </div>
 
@@ -30,6 +35,12 @@ I am a Ph.D. student in the School of Computer Science and Artificial Intelligen
 
 I am particularly interested in building evaluation environments and learning frameworks where LLM-based agents can reason, compete, adapt, and improve through interaction.
 
+## Current Focus
+
+- Building controllable market environments for LLM-based agent evaluation
+- Studying self-play mechanisms that improve quantitative reasoning and strategic decision-making
+- Designing reproducible experiments for multi-agent interaction, tool use, and dynamic feedback
+
 ## Research Interests
 
 - Large Language Model Agents
@@ -37,6 +48,14 @@ I am particularly interested in building evaluation environments and learning fr
 - Self-Play and Multi-Agent Interaction
 - Agent Evaluation and Benchmark Construction
 - Reliable Decision-Making in Dynamic Environments
+
+## Research Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,git,github,linux,latex,md&perline=7" alt="Research and engineering toolkit" />
+
+</div>
 
 ## Research System
 
